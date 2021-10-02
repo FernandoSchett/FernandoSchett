@@ -1,4 +1,4 @@
-## Oi! Sou Fernando Schettini, 18y estudo programacao e sempre quero melhorar!
+## Oi! Sou Fernando Schettini, 18y estudo programação e sempre quero melhorar!
 
 <div align="center">
   <a href="https://github.com/FernandoSchett">
