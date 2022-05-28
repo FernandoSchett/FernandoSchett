@@ -1,6 +1,6 @@
 ## Oi! Sou Fernando Schettini, 18y estudo programação e sempre quero melhorar!
 ## Hi! I'm Fernando Schettini, 18 years old, I study programmation and I always want to improve!
-https://linkr.bio/kjlyr
+
 
 <div align="center">
   <a href="https://github.com/FernandoSchett">
