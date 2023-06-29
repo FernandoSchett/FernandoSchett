@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="link_for_webite">
-	<img height = "250em" src = "https://github.com/FernandoSchett/FernandoSchett/assets/80331486/23b6ceb2-61f4-4842-bf7d-683586a98051" />
+	<img height = "250em" src = "https://github.com/FernandoSchett/FernandoSchett/assets/80331486/24571ad6-e67f-4285-a080-751eaeb2e636" />
     </a>
 </div>
 
