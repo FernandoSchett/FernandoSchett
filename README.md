@@ -1,10 +1,4 @@
-
-![dnteste](https://github.com/FernandoSchett/FernandoSchett/assets/80331486/3fdc48eb-6651-4046-9678-8ce48f590f97)
-
-
-![github_1_1ong](https://github.com/FernandoSchett/FernandoSchett/assets/80331486/99eb979f-3884-4061-a3d3-92d7f445e980)
 <div align="center">
-![github_1_1ong](https://github.com/FernandoSchett/FernandoSchett/assets/80331486/99eb979f-3884-4061-a3d3-92d7f445e980)
 	<a href="link_for_webite">
 	<img height = "250em" src = "https://github.com/FernandoSchett/FernandoSchett/assets/80331486/cde54552-5251-476a-93cc-a973aa09212b" />
     </a>
