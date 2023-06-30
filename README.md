@@ -14,7 +14,7 @@
 
 <div align="center">
 	<a align="center" href="https://linktr.ee/fernandoschett">
-		<img height="200em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/2f343391-79a5-473b-a12e-6da123b38ccb" />
+		<img height="200em" src="./assets/socials.png" />
 	</a>
 </div>
 
