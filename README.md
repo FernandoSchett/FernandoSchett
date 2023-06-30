@@ -17,10 +17,7 @@
 		<img height="200em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/2f343391-79a5-473b-a12e-6da123b38ccb" />
 	</a>
 </div>
-		
-### Let's Connect 😎 👍!
 
-Thank you for visiting my GitHub profile! I'm excited to connect with fellow developers, collaborate on interesting projects, and contribute to the ever-growing programming community. Feel free to check out my socials and let's embark on a journey of coding excellence together!
 
 <div><b>Tools:</b><div>
 
