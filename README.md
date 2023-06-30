@@ -17,16 +17,5 @@
 		<img height="200em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/2f343391-79a5-473b-a12e-6da123b38ccb" />
 	</a>
 </div>
-
-
-<div><b>Tools:</b><div>
-
----
-
-<div><b>Experience:</b><div>
-
----
-
-
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FB6C04&height=120&section=footer"/>
