@@ -12,9 +12,15 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSchett&layout=compact&hide_border=true&title_color=FE4407&text_color=FB6C04&bg_color=0d1117" />
 </div>
 
+<div align="center">
+	<a href="link_for_webite">
+	<img height = "200em" src = "https://github.com/FernandoSchett/FernandoSchett/assets/80331486/1529773c-e438-4527-9ab6-6326f8fb87ec" />
+    </a>
+</div>
+
 ### Let's Connect 😎 👍!
 
-Thank you for visiting my GitHub profile! I'm excited to connect with fellow developers, collaborate on interesting projects, and contribute to the ever-growing programming community. Let's embark on a journey of coding excellence together!
+Thank you for visiting my GitHub profile! I'm excited to connect with fellow developers, collaborate on interesting projects, and contribute to the ever-growing programming community. Feel free to check out my socials and let's embark on a journey of coding excellence together!
 
 <div><b>Tools:</b><div>
 
