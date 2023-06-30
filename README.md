@@ -10,7 +10,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSchett&layout=compact&hide_border=true&title_color=FE4407&text_color=FB6C04&bg_color=0d1117" />
 </div>
 
----
 ### Let's Connect 😎 👍!
 
 Thank you for visiting my GitHub profile! I'm excited to connect with fellow developers, collaborate on interesting projects, and contribute to the ever-growing programming community. Let's embark on a journey of coding excellence together!
