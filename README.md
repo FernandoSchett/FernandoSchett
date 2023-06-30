@@ -5,6 +5,8 @@
     </a>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE4407&size=35&center=true&vCenter=true&width=1000&lines=FE4407+FB6C04;ORANGE)](https://git.io/typing-svg)
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandoSchett&show_icons=true&count_private=false&hide_border=true&title_color=FE4407&icon_color=FE4407&text_color=FB6C04&bg_color=0d1117" alt="Fernando Schettini Github Stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSchett&layout=compact&hide_border=true&title_color=FE4407&text_color=FB6C04&bg_color=0d1117" />
