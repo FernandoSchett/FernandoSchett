@@ -25,3 +25,4 @@ Thank you for visiting my GitHub profile! I'm excited to connect with fellow dev
 
 
  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FB6C04&height=120&section=footer"/>
