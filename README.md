@@ -26,7 +26,7 @@
  	<img height="70em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/3a512105-9f31-4974-8385-75b003dfac6c" /> <!-- python -->
  	<img height="70em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/692bfd3c-8f75-4305-865c-a6abc83dd5b6" /> <!-- java -->
  	<img height="70em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/36f69f60-3498-4f59-bd7f-7f22cc2ffde1" /> <!-- html -->
- 	<img height="70em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/e456af99-3538-4fab-8271-3f3ca54b9e1a" /> <!-- sql -->
+	<img height="70em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/e456af99-3538-4fab-8271-3f3ca54b9e1a" /> <!-- sql -->
  	<img height="70em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/db3e5d41-96a0-409d-a0a9-9fb1e3bc6f3d" /> <!-- jupyter -->
  	<img height="70em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/cbad0871-c30d-4eb2-a732-7555ccccd4f9" /> <!-- docker -->
  	<img height="70em" src="https://github.com/FernandoSchett/FernandoSchett/assets/80331486/72cc9555-b4d1-4760-8ebd-a437dbe0e77f" /> <!-- vscode -->
