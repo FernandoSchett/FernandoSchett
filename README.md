@@ -7,11 +7,6 @@
 
 [![laranjo](https://readme-typing-svg.herokuapp.com/?color=FE4407&size=35&center=true&vCenter=true&width=1000&lines=FE4407;ORANGE;NARANJA;FB6C04;ARACIONE;ORANJE;ORANSSI;ORANZOVÁ;ORANZHEVYY;ORENJI-IRO;NARANJI;ORANSJE)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandoSchett&show_icons=true&count_private=false&hide_border=true&title_color=FE4407&icon_color=FE4407&text_color=FB6C04&bg_color=0d1117" alt="Fernando Schettini Github Stats"/> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSchett&layout=compact&hide_border=true&title_color=FE4407&text_color=FB6C04&bg_color=0d1117" />
-</div>
-
 <div align="center">
 	<a align="center" href="https://linktr.ee/fernandoschett">
 		<img height="200em" src="./assets/socials.png" />
